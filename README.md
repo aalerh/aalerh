@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aalerh
 - 👀 I’m interested in web developmet
-- 🌱 I’m currently learning html%css
+- 🌱 I’m currently learning html&css
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me 
 
